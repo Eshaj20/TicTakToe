@@ -1,1 +1,1 @@
-# TicTakToe
+# TicTakToe - game development using python
